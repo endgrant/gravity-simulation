@@ -1,0 +1,3 @@
+Add different celestial bodies depending on mass and size, such as white dwarf, red supergiant, black hole etc.
+Add radial input to be able to select initial velocity vector before creating an object. This should help launch orbits and systems into motion.
+Add minimap
